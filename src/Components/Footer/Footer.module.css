@@ -1,0 +1,12 @@
+.common {
+  color: #999999;
+  cursor: pointer;
+}
+.common:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+.footerHeadings {
+  font-size: 18px;
+  font-weight: 300;
+}

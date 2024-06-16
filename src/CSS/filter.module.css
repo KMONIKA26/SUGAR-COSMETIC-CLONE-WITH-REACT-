@@ -1,0 +1,22 @@
+.rightComponet{
+    float:right;
+
+}
+.Mainfilterbox{
+position:relative;
+float:'left'
+}
+.mainFilterTab{
+    display: 'flex';
+     float: 'right'; 
+     clear: 'both';
+     position:relative;
+}
+.clearFilter{
+    color:black;
+    padding-right:.46rem;
+    cursor: pointer;
+}
+.clearFilter:hover{
+    text-decoration: underline;
+}

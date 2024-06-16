@@ -1,0 +1,650 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "route": "/products/blend-trend-dual-face-brush-075-powder-foundation",
+      "name": "Blend Trend Dual Face Brush - 075 Powder + Foundation",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/Blend-Trend-WBG-images-12-min.jpg?v=1627573647","https://cdn.shopify.com/s/files/1/0906/2558/products/Blendtrend-powderedbyimage_1.jpg?v=1627573649","https://cdn.shopify.com/s/files/1/0906/2558/products/Blend-Trend-WBG-images-22.jpg?v=1627565188"],
+      "price": "599.00",
+      "ratingValue": "4.789473684210527",
+      "reviewCount": "19",
+      "category": ["brush"]
+      }, 
+      {
+      "id": 2,
+      "route": "/products/smudge-me-not-minis-set-black",
+      "name": "Smudge Me Not Minis Set - Black",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-14964843151443.jpg?v=1620651368","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-14964843184211.jpg?v=1620651368","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-14964843216979.jpg?v=1620651368","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-28122612531283.jpg?v=1620651368","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-28271613018195.jpg?v=1623072366","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-28271613149267.jpg?v=1623072368","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-28271613214803.jpg?v=1623072370","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-28271613247571.jpg?v=1623072372","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-14964843282515.jpg?v=1620708113","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-14969834700883.jpg?v=1620708113","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-14964843315283.jpg?v=1620708113","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-14964843348051.jpg?v=1620708113","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-14964843380819.jpg?v=1620708113","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-14964843413587.jpg?v=1640179024","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-14964843446355.jpg?v=1620708113","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-14964843511891.jpg?v=1620708113","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-14964843544659.jpg?v=1620708113","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-14964843577427.jpg?v=1620708113","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-14964843610195.jpg?v=1620708113","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-28122612564051.jpg?v=1620708113","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-28122612596819.jpg?v=1620708113","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-28122612629587.jpg?v=1620708113","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-black-28122612662355.jpg?v=1620708113"],
+      "price": "799.00",
+      "ratingValue": "4.6893939393939394",
+      "reviewCount": "132",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 3,
+      "route": "/products/face-fwd-contour-stick",
+      "name": "Face Fwd >> Contour Stick",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-contour-stick-01-fawn-first-milk-chocolate-brown-13825383923795.jpg?v=1619116453","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-contour-stick-01-fawn-first-milk-chocolate-brown-14376630779987.jpg?v=1619116455","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-contour-stick-01-fawn-first-milk-chocolate-brown-14376861270099.jpg?v=1619116458","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-contour-stick-01-fawn-first-milk-chocolate-brown-14376777351251.jpg?v=1619116460","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-contour-stick-01-fawn-first-milk-chocolate-brown-13824748650579.jpg?v=1619116463","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-contour-stick-01-fawn-first-milk-chocolate-brown-13824748683347.jpg?v=1619116466","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-contour-stick-01-fawn-first-milk-chocolate-brown-13825383956563.jpg?v=1619116468","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-contour-stick-01-fawn-first-milk-chocolate-brown-13825383661651.jpg?v=1619116470"],
+      "price": "799.00",
+      "ratingValue": "4.913043478260869",
+      "reviewCount": "46",
+      "category": ["face makeup"]
+      }, 
+      {
+      "id": 4,
+      "route": "/products/mini-liquid-lipstick-set-red-fearless",
+      "name": "Mini Liquid Lipstick Set - Fearless",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-red-fearless-27943255703635.jpg?v=1620652654","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-red-fearless-27943255605331.jpg?v=1620652654","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-red-fearless-27943255572563.jpg?v=1620652654","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-red-fearless-27943255539795.jpg?v=1620652654","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-red-fearless-27943255736403.jpg?v=1620652654","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-red-fearless-27943255670867.jpg?v=1620652654","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fearless-28271614361683.jpg?v=1623072838","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fearless-28271614427219.jpg?v=1623072841","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fearless-28271614459987.jpg?v=1623072843","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fearless-28271614492755.jpg?v=1623072845"],
+      "price": "799.00",
+      "ratingValue": "4.411764705882353",
+      "reviewCount": "17",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 5,
+      "route": "/products/base-of-glory-pore-minimizing-primer",
+      "name": "Base Of Glory Pore Minimizing Primer",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/1_e9355d54-6ddb-4aa4-bdfc-176a676db886.jpg?v=1639983555","https://cdn.shopify.com/s/files/1/0906/2558/products/3_387d934a-e3ce-4752-b70e-2710d685b7bc.jpg?v=1639983555","https://cdn.shopify.com/s/files/1/0906/2558/products/2_dbc0bcfa-49ae-4a50-bfe8-fa66dc6f5c9b.jpg?v=1639983555","https://cdn.shopify.com/s/files/1/0906/2558/products/4_67513153-3831-4c41-b812-e5271c7b9e65.jpg?v=1639983555","https://cdn.shopify.com/s/files/1/0906/2558/products/5_1_5d67622f-a55f-49b6-b667-9d6573c9b1f5.jpg?v=1639983555","https://cdn.shopify.com/s/files/1/0906/2558/products/6_1.jpg?v=1639983555"],
+      "price": "799.00",
+      "ratingValue": "4.770949720670391",
+      "reviewCount": "179",
+      "category": ["face makeup"]
+      }, 
+      {
+      "id": 6,
+      "route": "/products/bling-leader-illuminating-moisturizer",
+      "name": "Bling Leader Illuminating Moisturizer",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-bling-leader-illuminating-moisturizer-01-gold-diggin-warm-gold-with-a-pearl-finish-13644788006995.jpg?v=1619115785","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-bling-leader-illuminating-moisturizer-01-gold-diggin-warm-gold-with-a-pearl-finish-14270754291795.jpg?v=1619115788","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-bling-leader-illuminating-moisturizer-01-gold-diggin-warm-gold-with-a-pearl-finish-13644788039763.jpg?v=1619115790","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-bling-leader-illuminating-moisturizer-01-gold-diggin-warm-gold-with-a-pearl-finish-13644787941459.jpg?v=1619115793","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-bling-leader-illuminating-moisturizer-01-gold-diggin-warm-gold-with-a-pearl-finish-13644787974227.jpg?v=1619115796","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-bling-leader-illuminating-moisturizer-01-gold-diggin-warm-gold-with-a-pearl-finish-15674826948691.jpg?v=1619115798","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-bling-leader-illuminating-moisturizer-01-gold-diggin-warm-gold-with-a-pearl-finish-15674901692499.jpg?v=1619115800","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-bling-leader-illuminating-moisturizer-01-gold-diggin-warm-gold-with-a-pearl-finish-15674902544467.jpg?v=1619115802","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-bling-leader-illuminating-moisturizer-01-gold-diggin-warm-gold-with-a-pearl-finish-15674903298131.jpg?v=1619115805"],
+      "price": "499.00",
+      "ratingValue": "4.6938775510204085",
+      "reviewCount": "98",
+      "category": ["face makeup"]
+      }, 
+      {
+      "id": 7,
+      "route": "/products/lip-service-sugar-scrub",
+      "name": "LIP SERVICE SUGAR SCRUB",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-sugar-scrub-28015074508883.jpg?v=1619155562","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-sugar-scrub-28015076933715.jpg?v=1619155564","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-sugar-scrub-28122581565523.jpg?v=1619155567","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-sugar-scrub-28122581598291.jpg?v=1619155569","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-sugar-scrub-28122581631059.jpg?v=1619155572","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-sugar-scrub-28015076835411.jpg?v=1619155573"],
+      "price": "399.00",
+      "ratingValue": "4.583333333333333",
+      "reviewCount": "12",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 8,
+      "route": "/products/smudge-me-not-mini-lipstick-mint-green-set-nude-1",
+      "name": "Smudge Me Not Mini Lipstick Mint Green Set - Nude",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-nude-28448565133395.jpg?v=1624280500","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-nude-28468153811027.jpg?v=1624291017","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-nude-28448565198931.jpg?v=1624280500","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-nude-28468153974867.jpg?v=1624280500","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-nude-28448565264467.jpg?v=1624280500","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-nude-28448565362771.jpg?v=1624280500"],
+      "price": "799.00",
+      "ratingValue": "5",
+      "reviewCount": "2",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 9,
+      "route": "/products/magic-wand-waterproof-concealer",
+      "name": "Magic Wand Waterproof Concealer",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-magic-wand-waterproof-concealer-07-vanilla-latte-fair-golden-undertone-12958386585683.jpg?v=1619114726","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-magic-wand-waterproof-concealer-07-vanilla-latte-fair-golden-undertone-14376582971475.jpg?v=1619114729","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-magic-wand-waterproof-concealer-07-vanilla-latte-fair-golden-undertone-14376873197651.jpg?v=1619114731","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-magic-wand-waterproof-concealer-07-vanilla-latte-fair-golden-undertone-14376882602067.jpg?v=1619114734","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-magic-wand-waterproof-concealer-07-vanilla-latte-fair-golden-undertone-12958385406035.jpg?v=1619114736","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-magic-wand-waterproof-concealer-07-vanilla-latte-fair-golden-undertone-12958385668179.jpg?v=1619114739","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-magic-wand-waterproof-concealer-07-vanilla-latte-fair-golden-undertone-12958385897555.jpg?v=1619114741","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-magic-wand-waterproof-concealer-07-vanilla-latte-fair-golden-undertone-12958386389075.jpg?v=1619114743","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-magic-wand-waterproof-concealer-07-vanilla-latte-fair-golden-undertone-12958386421843.jpg?v=1619114745"],
+      "price": "799.00",
+      "ratingValue": "4.753521126760563",
+      "reviewCount": "142",
+      "category": ["face makeup"]
+      }, 
+      {
+      "id": 10,
+      "route": "/products/contour-de-force-face-palette",
+      "name": "Contour De Force Face Palette",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/1_c36c9186-d377-4704-bd67-1a18d6e8541c.jpg?v=1639582576","https://cdn.shopify.com/s/files/1/0906/2558/products/2_60191659-02b6-4ae9-9b45-5cc613817dfc.jpg?v=1639582578","https://cdn.shopify.com/s/files/1/0906/2558/products/3_8931efd5-56ed-4166-b472-78775e2fbcbb.jpg?v=1639582580","https://cdn.shopify.com/s/files/1/0906/2558/products/4_9291d570-89b2-4d34-9f37-4484ff79aee4.jpg?v=1639582582","https://cdn.shopify.com/s/files/1/0906/2558/products/5_d688c04a-a634-45e0-8ee4-ff94a44ed72e.jpg?v=1639582584","https://cdn.shopify.com/s/files/1/0906/2558/products/6_832236c1-6949-4810-b015-0b366cc48f59.jpg?v=1639582586","https://cdn.shopify.com/s/files/1/0906/2558/products/7_be65a9a7-273a-4bcb-ab66-62e35a6dbbde.jpg?v=1639582588"],
+      "price": "799.00",
+      "ratingValue": "4.680952380952381",
+      "reviewCount": "210",
+      "category": ["face makeup"]
+      }, 
+      {
+      "id": 11,
+      "route": "/products/mini-liquid-lipstick-set-pink-adventurous",
+      "name": "Mini Liquid Lipstick Set - Adventurous",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-adventurous-27950522073171.jpg?v=1620652479","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-adventurous-27950521417811.jpg?v=1620652479","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-adventurous-27950521090131.jpg?v=1620652479","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-adventurous-27950521647187.jpg?v=1620652479","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-adventurous-27950520598611.jpg?v=1620652479","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-adventurous-27950521811027.jpg?v=1620652479","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-adventurous-28271614099539.jpg?v=1623072756","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-adventurous-28271614132307.jpg?v=1623072757","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-adventurous-28271614165075.jpg?v=1623072759","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-adventurous-28271614197843.jpg?v=1623072761"],
+      "price": "799.00",
+      "ratingValue": "4.764705882352941",
+      "reviewCount": "17",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 12,
+      "route": "/products/smudge-me-not-minis-set-red",
+      "name": "Smudge Me Not Minis Set - Red",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/Red-Mini-Ret--WBG-1.jpg?v=1625845364","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787043946579.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787043979347.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787046404179.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-28271603875923.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-28271603941459.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-28271603974227.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-28271604006995.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787046043731.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787044372563.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787044208723.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787045716051.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787044110419.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787044569171.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787045814355.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787044733011.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-28122613317715.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787046338643.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787046142035.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787044012115.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787044601939.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787046469715.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787044175955.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787045978195.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-28122613350483.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787046240339.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787046010963.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787045748819.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787044667475.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787044077651.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787044044883.jpg?v=1625820742","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-red-15787046502483.jpg?v=1625820742"],
+      "price": "799.00",
+      "ratingValue": "4.685185185185185",
+      "reviewCount": "54",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 13,
+      "route": "/products/sugar-mettle-liquid-lipstick",
+      "name": "Mettle Liquid Lipstick",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-liquid-lipstick-01-lyra-cool-toned-plum-12067404054611.jpg?v=1619109871","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-liquid-lipstick-01-lyra-cool-toned-plum-14340472242259.jpg?v=1619109873","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-liquid-lipstick-01-lyra-cool-toned-plum-14154838245459.jpg?v=1619109876","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-liquid-lipstick-01-lyra-cool-toned-plum-11992178982995.jpg?v=1619109878","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-liquid-lipstick-01-lyra-cool-toned-plum-28122590969939.jpg?v=1619109880","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-liquid-lipstick-01-lyra-cool-toned-plum-28122591002707.jpg?v=1619109882","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-liquid-lipstick-01-lyra-cool-toned-plum-12067403989075.jpg?v=1619109884"],
+      "price": "1199.00",
+      "ratingValue": "4.824561403508772",
+      "reviewCount": "57",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 14,
+      "route": "/products/good-moodies-lip-crayon",
+      "name": "Good Moodies Lip Crayon",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/01_c12e7d26-191d-4f49-bad2-28b740b3b169.jpg?v=1639584721","https://cdn.shopify.com/s/files/1/0906/2558/products/02_f0e8881d-ed28-4133-890b-7264a2177fbb.jpg?v=1639584724","https://cdn.shopify.com/s/files/1/0906/2558/products/03_fd1dc593-0cbc-4378-8904-8ea30ed85a78.jpg?v=1639584726","https://cdn.shopify.com/s/files/1/0906/2558/products/05.png?v=1639990300","https://cdn.shopify.com/s/files/1/0906/2558/products/06_84cf32a7-ff9c-44e5-96c4-0cd1b6d7ab7b.jpg?v=1639990300","https://cdn.shopify.com/s/files/1/0906/2558/products/08_ad9a024e-a9dc-4b56-9f36-e00451e4bec4.jpg?v=1639990300","https://cdn.shopify.com/s/files/1/0906/2558/products/09_24184414-19c0-4bea-adf0-d7e7760f431e.jpg?v=1639990300","https://cdn.shopify.com/s/files/1/0906/2558/products/04_23aa9ada-c2e4-4ea9-9a01-80cf47af80cf.jpg?v=1639990300","https://cdn.shopify.com/s/files/1/0906/2558/products/07_02ad01f3-f287-4e9f-9fae-8ff9dd621419.jpg?v=1639584745"],
+      "price": "599.00",
+      "ratingValue": "4.857142857142857",
+      "reviewCount": "28",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 15,
+      "route": "/products/rage-for-coverage-24hr-foundation",
+      "name": "Rage For Coverage 24Hr Foundation",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-rage-for-coverage-24hr-foundation-07-vanilla-latte-fair-golden-undertone-28390674923603.jpg?v=1623073415","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-rage-for-coverage-24hr-foundation-07-vanilla-latte-fair-golden-undertone-28390674890835.jpg?v=1623073417","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-rage-for-coverage-24hr-foundation-07-vanilla-latte-fair-golden-undertone-28390873235539.jpg?v=1623071689","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-rage-for-coverage-24hr-foundation-07-vanilla-latte-fair-golden-undertone-28392387870803.jpg?v=1623073419","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-rage-for-coverage-24hr-foundation-07-vanilla-latte-fair-golden-undertone-28390674956371.jpg?v=1623073421"],
+      "price": "799.00",
+      "ratingValue": "4.808219178082192",
+      "reviewCount": "73",
+      "category": ["face makeup"]
+      }, 
+      {
+      "id": 16,
+      "route": "/products/face-fwd-primer-stick",
+      "name": "Face Fwd >> Primer Stick",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-primer-stick-13825409417299.jpg?v=1619116598","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-primer-stick-14330457030739.jpg?v=1619116600","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-primer-stick-14401667170387.jpg?v=1619116602","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-primer-stick-13824753795155.jpg?v=1619116604","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-primer-stick-13863492288595.jpg?v=1619116607","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-primer-stick-13825409450067.jpg?v=1619116609","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-primer-stick-13825409384531.jpg?v=1619116611"],
+      "price": "799.00",
+      "ratingValue": "4.75",
+      "reviewCount": "48",
+      "category": ["face makeup"]
+      }, 
+      {
+      "id": 17,
+      "route": "/products/wonder-woman-everlasting-matte-lipstick",
+      "name": "Wonder Woman Everlasting Matte Lipstick",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-everlasting-matte-lipstick-01-warrior-orange-red-27982206795859.jpg?v=1619155239","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-everlasting-matte-lipstick-01-warrior-orange-red-27982206959699.jpg?v=1619155241","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-everlasting-matte-lipstick-01-warrior-orange-red-27982207254611.jpg?v=1619155243","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-everlasting-matte-lipstick-01-warrior-orange-red-27973753864275.jpg?v=1619155245","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-everlasting-matte-lipstick-01-warrior-orange-red-27973754060883.jpg?v=1619155248","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-everlasting-matte-lipstick-01-warrior-orange-red-27973754290259.jpg?v=1619155250","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-everlasting-matte-lipstick-01-warrior-orange-red-27973754781779.jpg?v=1619155252","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-everlasting-matte-lipstick-01-warrior-orange-red-28002390212691.jpg?v=1619155255"],
+      "price": "799.00",
+      "ratingValue": "4.818181818181818",
+      "reviewCount": "22",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 18,
+      "route": "/products/mettle-satin-lipstick",
+      "name": "Mettle Satin Lipstick",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-satin-lipstick-01-sophie-bright-fuchsia-pink-fuchsia-13706264477779.jpg?v=1619116135","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-satin-lipstick-01-sophie-bright-fuchsia-pink-fuchsia-14338877849683.jpg?v=1619116137","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-satin-lipstick-01-sophie-bright-fuchsia-pink-fuchsia-13706264510547.jpg?v=1619116140","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-satin-lipstick-01-sophie-bright-fuchsia-pink-fuchsia-13706264543315.jpg?v=1619116142","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-satin-lipstick-01-sophie-bright-fuchsia-pink-fuchsia-13706264576083.jpg?v=1619116145","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-satin-lipstick-01-sophie-bright-fuchsia-pink-fuchsia-13706264445011.jpg?v=1619116148","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mettle-satin-lipstick-01-sophie-bright-fuchsia-pink-fuchsia-13706569711699.jpg?v=1619116151"],
+      "price": "999.00",
+      "ratingValue": "4.88135593220339",
+      "reviewCount": "59",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 19,
+      "route": "/products/seal-the-show-lip-primer",
+      "name": "Seal The Show Lip Primer",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-seal-the-show-lip-primer-14162590433363.jpg?v=1619106825","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-seal-the-show-lip-primer-14338893512787.jpg?v=1619106827","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-seal-the-show-lip-primer-7750540460115.jpg?v=1619106829","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-seal-the-show-lip-primer-28132877434963.jpg?v=1619106831"],
+      "price": "599.00",
+      "ratingValue": "4.630434782608695",
+      "reviewCount": "46",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 20,
+      "route": "/products/smudge-me-not-mini-lipstick-black-set-bold",
+      "name": "Smudge Me Not Mini Lipstick Black Set - Bold",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-bold-28336482779219.jpg?v=1623073320","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-bold-black-minis-set-28333403537491.jpg?v=1623073323","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-bold-28336542515283.jpg?v=1621930396","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-bold-28336542580819.jpg?v=1621930396","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-bold-28336542548051.jpg?v=1621930396","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-bold-28336542646355.jpg?v=1621930396"],
+      "price": "799.00",
+      "ratingValue": "4.4",
+      "reviewCount": "5",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 21,
+      "route": "/products/contour-de-force-mini-blush",
+      "name": "Contour De Force Mini Blush",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-blush-01-peach-peak-soft-peach-pink-12785043177555.jpg?v=1619102639","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-blush-01-peach-peak-soft-peach-pink-14330494419027.jpg?v=1619102642","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-blush-01-peach-peak-soft-peach-pink-14401372192851.jpg?v=1619102645","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-blush-01-peach-peak-soft-peach-pink-12785043210323.jpg?v=1619102648","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-blush-01-peach-peak-soft-peach-pink-12785043243091.jpg?v=1619102650","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-blush-01-peach-peak-soft-peach-pink-12785043374163.jpg?v=1619102653","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-blush-01-peach-peak-soft-peach-pink-12785043439699.jpg?v=1619102655","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-blush-01-peach-peak-soft-peach-pink-15781427576915.jpg?v=1619102657"],
+      "price": "349.00",
+      "ratingValue": "4.8686868686868685",
+      "reviewCount": "99",
+      "category": ["face makeup"]
+      }, 
+      {
+      "id": 22,
+      "route": "/products/sugar-x-wonder-woman-24-hr-lip-lacquer",
+      "name": "Wonder Woman 24 HR Lip Lacquer",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-24-hr-lip-lacquer-01-dreamella-deep-berry-27982300381267.jpg?v=1619155028","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-24-hr-lip-lacquer-01-dreamella-deep-berry-28122639892563.jpg?v=1619155030","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-24-hr-lip-lacquer-01-dreamella-deep-berry-28122639925331.jpg?v=1619155032","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-24-hr-lip-lacquer-01-dreamella-deep-berry-28122639958099.jpg?v=1619155034","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-24-hr-lip-lacquer-01-dreamella-deep-berry-28122639990867.jpg?v=1619155036","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-24-hr-lip-lacquer-01-dreamella-deep-berry-27973380603987.jpg?v=1619155038","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-24-hr-lip-lacquer-01-dreamella-deep-berry-27973380636755.jpg?v=1619155041","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-24-hr-lip-lacquer-01-dreamella-deep-berry-27973380669523.jpg?v=1619155043","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-24-hr-lip-lacquer-01-dreamella-deep-berry-27973859606611.jpg?v=1619155045","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-24-hr-lip-lacquer-01-dreamella-deep-berry-27982056259667.jpg?v=1619155047"],
+      "price": "699.00",
+      "ratingValue": "4.8",
+      "reviewCount": "20",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 23,
+      "route": "/products/smudge-me-not-mini-lipstick-black-set-nude-1",
+      "name": "Smudge Me Not Mini Lipstick Black Set - Nude",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-nude-28448555434067.jpg?v=1624280294","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-nude-28468149157971.jpg?v=1624291015","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-nude-28448555499603.jpg?v=1624280294","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-nude-28468151550035.jpg?v=1624280294","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-nude-28448596492371.jpg?v=1624280294","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-nude-28448555597907.jpg?v=1624280294"],
+      "price": "799.00",
+      "ratingValue": "4.5",
+      "reviewCount": "4",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 24,
+      "route": "/products/grand-finale-spf30-setting-mist",
+      "name": "Grand Finale SPF30 Setting Mist",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-grand-finale-spf30-setting-mist-15637215576147.jpg?v=1619151508","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-grand-finale-spf30-setting-mist-15647604670547.jpg?v=1619151510","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-grand-finale-spf30-setting-mist-15637215412307.jpg?v=1619151512","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-grand-finale-spf30-setting-mist-15637215838291.jpg?v=1619151514","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-grand-finale-spf30-setting-mist-15637215379539.jpg?v=1619151516"],
+      "price": "699.00",
+      "ratingValue": "4.686274509803922",
+      "reviewCount": "51",
+      "category": ["face makeup"]
+      }, 
+      {
+      "id": 25,
+      "route": "/products/the-most-eligiblur-smoothing-primer",
+      "name": "The Most Eligiblur Smoothing Primer",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-the-most-eligiblur-smoothing-primer-28122626162771.jpg?v=1619115330","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-the-most-eligiblur-smoothing-primer-14270759436371.jpg?v=1619115333","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-the-most-eligiblur-smoothing-primer-28122626195539.jpg?v=1619115334","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-the-most-eligiblur-smoothing-primer-13607201538131.jpg?v=1619115337","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-the-most-eligiblur-smoothing-primer-13607201603667.jpg?v=1619115339","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-the-most-eligiblur-smoothing-primer-13607201570899.jpg?v=1619115341"],
+      "price": "799.00",
+      "ratingValue": "4.76",
+      "reviewCount": "25",
+      "category": ["face makeup"]
+      }, 
+      {
+      "id": 26,
+      "route": "/products/powder-play-compact",
+      "name": "Powder Play Compact",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-translucent-compact-28122598932563.jpg?v=1619116304","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-translucent-compact-14285199310931.jpg?v=1619116307","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-translucent-compact-13731550036051.jpg?v=1619116309","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-translucent-compact-28122598965331.jpg?v=1619116312"],
+      "price": "599.00",
+      "ratingValue": "undefined",
+      "reviewCount": "undefined",
+      "category": ["face makeup"]
+      }, 
+      {
+      "id": 27,
+      "route": "/products/blend-trend-face-brush-003-contour",
+      "name": "Blend Trend Face Brush - 003 Contour",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-003Contour.jpg?v=1627659996","https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-003Contour_906d9652-0c48-494c-87d3-031348fe8327.jpg?v=1627659998","https://cdn.shopify.com/s/files/1/0906/2558/products/Blendtrend-powderedbyimage_9d22dca2-f9dc-431c-b72c-4e9a1e8b8b6e.jpg?v=1627660000"],
+      "price": "399.00",
+      "ratingValue": "5",
+      "reviewCount": "2",
+      "category": ["brush"]
+      }, 
+      {
+      "id": 28,
+      "route": "/products/smudge-me-not-mini-lipstick-black-set-bestseller",
+      "name": "Smudge Me Not Mini Lipstick Black Set - Bestseller",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-bestseller-28336345514067.jpg?v=1623073340","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-bestseller-28391904608339.jpg?v=1623073342","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-bestseller-28336447127635.jpg?v=1623062778","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-bestseller-28336447291475.jpg?v=1623062778","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-bestseller-28336448897107.jpg?v=1623062778","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-black-set-bestseller-28336453320787.jpg?v=1623062778"],
+      "price": "799.00",
+      "ratingValue": "5",
+      "reviewCount": "3",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 29,
+      "route": "/products/smudge-me-not-liquid-lipstick-minis-set",
+      "name": "Smudge Me Not Liquid Lipstick Minis Set",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-15520724582483.jpg?v=1620651966","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-15520725074003.jpg?v=1620651966","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28188186673235.jpg?v=1620651966","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28188187099219.jpg?v=1620651966","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28188187164755.jpg?v=1620651966","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-15520725663827.jpg?v=1620651966","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28156694298707.jpg?v=1620651966","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28156694331475.jpg?v=1620651966","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28271613280339.jpg?v=1623071015","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28271613313107.jpg?v=1623071017","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28271613739091.jpg?v=1623071019","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28271614034003.jpg?v=1623071022","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172358647891.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172358713427.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172358746195.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172373262419.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172373229651.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172373196883.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172377358419.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172377391187.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172377423955.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172384436307.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172384403539.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172389449811.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172389417043.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172389220435.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172400099411.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172400164947.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172399902803.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172427231315.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172427427923.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172427460691.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172437979219.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172437913683.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172438110291.jpg?v=1620708146","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-minis-set-28172437946451.jpg?v=1640178733"],
+      "price": "799.00",
+      "ratingValue": "4.778048780487805",
+      "reviewCount": "410",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 30,
+      "route": "/products/blend-trend-face-brush-001-blush",
+      "name": "Blend Trend Face Brush - 001 Blush",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-001Blush.jpg?v=1627659984","https://cdn.shopify.com/s/files/1/0906/2558/products/Blend-Trend-WBG-images-26.jpg?v=1627659986","https://cdn.shopify.com/s/files/1/0906/2558/products/Blendtrend-powderedbyimage_d369ce9e-200b-4e43-8063-756e82afa294.jpg?v=1627659988"],
+      "price": "399.00",
+      "ratingValue": "4.75",
+      "reviewCount": "4",
+      "category": ["brush"]
+      }, 
+      {
+      "id": 31,
+      "route": "/products/blend-trend-foundation-brush-051-flat",
+      "name": "Blend Trend Foundation Brush - 051 Flat",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFoundationBrush-051Flat.jpg?v=1627573670","https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFoundationBrush-051Flat_b200cc4e-8e57-44bf-808d-1662932a317e.jpg?v=1627573672","https://cdn.shopify.com/s/files/1/0906/2558/products/Blendtrend-powderedbyimage.jpg?v=1627573674"],
+      "price": "399.00",
+      "ratingValue": "5",
+      "reviewCount": "2",
+      "category": ["brush"]
+      }, 
+      {
+      "id": 32,
+      "route": "/products/powder-play-translucent-compact",
+      "name": "Powder Play Translucent Compact",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-translucent-compact-28122598932563.jpg?v=1619116304","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-translucent-compact-14285199310931.jpg?v=1619116307","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-translucent-compact-13731550036051.jpg?v=1619116309","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-translucent-compact-28122598965331.jpg?v=1619116312"],
+      "price": "599.00",
+      "ratingValue": "4.588235294117647",
+      "reviewCount": "17",
+      "category": ["face makeup"]
+      }, 
+      {
+      "id": 33,
+      "route": "/products/mini-liquid-lipstick-set-black-fighter",
+      "name": "Mini Liquid Lipstick Set - Fighter",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fighter-27950526169171.jpg?v=1620651933","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fighter-27950525349971.jpg?v=1620651933","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fighter-27950525022291.jpg?v=1620651933","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fighter-27950525382739.jpg?v=1620651933","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fighter-27950523580499.jpg?v=1620651933","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fighter-27950525612115.jpg?v=1620651933","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fighter-28271614525523.jpg?v=1623072788","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fighter-28271614558291.jpg?v=1623072790","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fighter-28271614591059.jpg?v=1623072792","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-fighter-28271614623827.jpg?v=1623072794"],
+      "price": "799.00",
+      "ratingValue": "4.631578947368421",
+      "reviewCount": "19",
+      "category": ["lip makeup"]
+      }, 
+      {
+      "id": 34,
+      "route": "/products/smudge-me-not-mini-lipstick-mint-green-set-bestseller",
+      "name": "Smudge Me Not Mini Lipstick Mint Green Set - Bestseller",
+      "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-bestseller-28336342171731.jpg?v=1623073344","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-bestseller-green-minis-set-28333448659027.jpg?v=1623073346","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-bestseller-28336460660819.jpg?v=1621926096","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-bestseller-28336461086803.jpg?v=1621926096","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-bestseller-28336461414483.jpg?v=1621926096","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-bestseller-28336461774931.jpg?v=1621926096"],
+      "price": "799.00",
+      "ratingValue": "4.5",
+      "reviewCount": "2",
+      "category": ["lip makeup"]
+      },
+      {
+        "id": 35,
+        "route": "/products/contour-de-force-highlighter-palette-01-glow-genius",
+        "name": "Contour De Force Highlighter Palette - 01 Glow Genius",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-highlighter-palette-01-glow-genius-12788198572115.jpg?v=1619106971","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-highlighter-palette-01-glow-genius-14376627011667.jpg?v=1619106973","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-highlighter-palette-01-glow-genius-12788198801491.jpg?v=1619106976","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-highlighter-palette-01-glow-genius-12788198867027.jpg?v=1619106978","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-highlighter-palette-01-glow-genius-12788199260243.jpg?v=1619106980","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-highlighter-palette-01-glow-genius-15494064701523.jpg?v=1619106982","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-highlighter-palette-01-glow-genius-15494065225811.jpg?v=1619106984","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-highlighter-palette-01-glow-genius-15494065356883.jpg?v=1619106986","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-highlighter-palette-01-glow-genius-15781422891091.jpg?v=1619106988"],
+        "price": "799.00",
+        "ratingValue": "4.954545454545454",
+        "reviewCount": "22",
+        "category": ["face makeup"]
+        }, 
+        {
+        "id": 36,
+        "route": "/products/tipsy-lips-moisturizing-balm",
+        "name": "Tipsy Lips Moisturizing Balm",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-tipsy-lips-moisturizing-balm-01-mojito-15057269653587.jpg?v=1619122348","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-tipsy-lips-moisturizing-balm-01-mojito-15045400526931.jpg?v=1619122351","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-tipsy-lips-moisturizing-balm-01-mojito-15057269620819.jpg?v=1619122353","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-tipsy-lips-moisturizing-balm-01-mojito-15045400625235.jpg?v=1619122356"],
+        "price": "199.00",
+        "ratingValue": "4.776190476190476",
+        "reviewCount": "210",
+        "category": ["lip makeup"]
+        }, 
+        {
+        "id": 37,
+        "route": "/products/face-fwd-blush-stick",
+        "name": "Face Fwd >> Blush Stick",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-blush-stick-01-coral-climax-bright-coral-13825378943059.jpg?v=1619116391","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-blush-stick-01-coral-climax-bright-coral-14330440089683.jpg?v=1619116394","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-blush-stick-01-coral-climax-bright-coral-14376862351443.jpg?v=1619116397","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-blush-stick-01-coral-climax-bright-coral-13824740491347.jpg?v=1619116400","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-blush-stick-01-coral-climax-bright-coral-13824740524115.jpg?v=1619116403","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-blush-stick-01-coral-climax-bright-coral-13824740556883.jpg?v=1619116405","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-blush-stick-01-coral-climax-bright-coral-13825378975827.jpg?v=1619116407","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-blush-stick-01-coral-climax-bright-coral-13825379008595.jpg?v=1619116409"],
+        "price": "799.00",
+        "ratingValue": "4.888888888888889",
+        "reviewCount": "18",
+        "category": ["face makeup"]
+        }, 
+        {
+        "id": 38,
+        "route": "/products/lip-service-tint-remover",
+        "name": "LIP SERVICE TINT REMOVER",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-tint-remover-28122580910163.jpg?v=1619155575","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-tint-remover-28003084566611.jpg?v=1619155577","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-tint-remover-28015493349459.jpg?v=1619155579","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-tint-remover-28015232122963.jpg?v=1619155581","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-tint-remover-28015231991891.jpg?v=1619155583"],
+        "price": "399.00",
+        "ratingValue": "3.8",
+        "reviewCount": "5",
+        "category": ["lip makeup"]
+        }, 
+        {
+        "id": 39,
+        "route": "/products/contour-de-force-mini-bronzer",
+        "name": "Contour De Force Mini Bronzer",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-bronzer-01-taupe-topper-brown-gray-12785063657555.jpg?v=1619102688","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-bronzer-01-taupe-topper-brown-gray-14376772272211.jpg?v=1619102690","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-bronzer-01-taupe-topper-brown-gray-14330497237075.jpg?v=1619102692","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-bronzer-01-taupe-topper-brown-gray-12785064443987.jpg?v=1619102695","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-bronzer-01-taupe-topper-brown-gray-12785063854163.jpg?v=1619102697","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-bronzer-01-taupe-topper-brown-gray-15781431672915.jpg?v=1619102699"],
+        "price": "399.00",
+        "ratingValue": "4.704545454545454",
+        "reviewCount": "44",
+        "category": ["face makeup"]
+        }, 
+        {
+        "id": 40,
+        "route": "/products/wonder-woman-creamy-matte-lipstick",
+        "name": "Wonder Woman Creamy Matte Lipstick",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-creamy-matte-lipstick-01-love-leader-dusty-reddish-pink-28122636288083.jpg?v=1619154856","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-creamy-matte-lipstick-01-love-leader-dusty-reddish-pink-27982118781011.jpg?v=1619154858","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-creamy-matte-lipstick-01-love-leader-dusty-reddish-pink-27982118813779.jpg?v=1619154859","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-creamy-matte-lipstick-01-love-leader-dusty-reddish-pink-27973681021011.jpg?v=1619154862","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-creamy-matte-lipstick-01-love-leader-dusty-reddish-pink-27973681119315.jpg?v=1619154864","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-creamy-matte-lipstick-01-love-leader-dusty-reddish-pink-27973681250387.jpg?v=1619154866","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-creamy-matte-lipstick-01-love-leader-dusty-reddish-pink-27973681545299.jpg?v=1619154868","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-wonder-woman-creamy-matte-lipstick-01-love-leader-dusty-reddish-pink-27982033846355.jpg?v=1619154870"],
+        "price": "599.00",
+        "ratingValue": "4.875",
+        "reviewCount": "16",
+        "category": ["lip makeup"]
+        }, 
+        {
+        "id": 41,
+        "route": "/products/powder-play-banana-compact",
+        "name": "Powder Play Banana Compact",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-banana-compact-28122599424083.jpg?v=1619116314","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-banana-compact-14285193117779.jpg?v=1619116316","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-banana-compact-13731547218003.jpg?v=1619116319","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-banana-compact-28122599489619.jpg?v=1619116321"],
+        "price": "599.00",
+        "ratingValue": "4.732142857142857",
+        "reviewCount": "56",
+        "category": ["face makeup"]
+        }, 
+        {
+        "id": 42,
+        "route": "/products/all-set-to-go-banana-powder",
+        "name": "All Set To Go Banana Powder",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-banana-powder-13289662218323.jpg?v=1619115199","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-banana-powder-14376570912851.jpg?v=1619115201","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-banana-powder-13289662185555.jpg?v=1619115203","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-banana-powder-13289662152787.jpg?v=1619115205","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-banana-powder-15675472216147.jpg?v=1619115207","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-banana-powder-15675472838739.jpg?v=1619115210","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-banana-powder-15675473756243.jpg?v=1619115212","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-banana-powder-15675473920083.jpg?v=1619115214"],
+        "price": "599.00",
+        "ratingValue": "4.746031746031746",
+        "reviewCount": "63",
+        "category": ["face makeup"]
+        }, 
+        {
+        "id": 43,
+        "route": "/products/time-to-shine-lip-gloss",
+        "name": "Time To Shine Lip Gloss",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-time-to-shine-lip-gloss-01-penelope-peachstop-peach-13905960075347.jpg?v=1619116700","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-time-to-shine-lip-gloss-01-penelope-peachstop-peach-14338866937939.jpg?v=1619116702","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-time-to-shine-lip-gloss-01-penelope-peachstop-peach-13905959977043.jpg?v=1619116705","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-time-to-shine-lip-gloss-01-penelope-peachstop-peach-13905960009811.jpg?v=1619116707","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-time-to-shine-lip-gloss-01-penelope-peachstop-peach-13905960042579.jpg?v=1619116709","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-time-to-shine-lip-gloss-01-penelope-peachstop-peach-28122623180883.jpg?v=1619116711"],
+        "price": "499.00",
+        "ratingValue": "4.472222222222222",
+        "reviewCount": "36",
+        "category": ["lip makeup"]
+        }, 
+        {
+        "id": 44,
+        "route": "/products/blend-trend-foundation-brush-052-kabuki",
+        "name": "Blend Trend Foundation Brush - 052 Kabuki",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFoundationBrush-052Kabuki.jpg?v=1627573664","https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFoundationBrush-052Kabuki_93d47907-4bb8-49f7-94b4-d409d8f9d99b.jpg?v=1627573666","https://cdn.shopify.com/s/files/1/0906/2558/products/Blendtrend-powderedbyimage_eddd3343-cf6e-4465-baec-da7789984c08.jpg?v=1627573668"],
+        "price": "399.00",
+        "ratingValue": "4.857142857142857",
+        "reviewCount": "7",
+        "category": ["brush"]
+        }, 
+        {
+        "id": 45,
+        "route": "/products/mini-liquid-lipstick-set-mint-green-invincible",
+        "name": "Mini Liquid Lipstick Set - Invincible",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-mint-green-invincible-27943029538899.jpg?v=1620652208","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-mint-green-invincible-27943029702739.jpg?v=1620652208","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-mint-green-invincible-27943029669971.jpg?v=1620652208","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-mint-green-invincible-27943029735507.jpg?v=1620652208","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-mint-green-invincible-27943029571667.jpg?v=1620652208","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-mint-green-invincible-27943029637203.jpg?v=1620652208","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-invincible-28271615082579.jpg?v=1623072811","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-invincible-28271615115347.jpg?v=1623072813","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-invincible-28271615180883.jpg?v=1623072815","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-mini-liquid-lipstick-set-invincible-28271615213651.jpg?v=1623072818"],
+        "price": "799.00",
+        "ratingValue": "4.866666666666666",
+        "reviewCount": "15",
+        "category": ["lip makeup"]
+        }, 
+        {
+        "id": 46,
+        "route": "/products/all-set-to-go-translucent-powder",
+        "name": "All Set To Go Translucent Powder",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/3_7.jpg?v=1626795160","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-translucent-powder-14376568324179.jpg?v=1626752637","https://cdn.shopify.com/s/files/1/0906/2558/products/4_8.jpg?v=1626795162","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-translucent-powder-12785059922003.jpg?v=1626752637","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-translucent-powder-12785059954771.jpg?v=1626752637"],
+        "price": "599.00",
+        "ratingValue": "4.825",
+        "reviewCount": "120",
+        "category": ["face makeup"]
+        }, 
+        {
+        "id": 47,
+        "route": "/products/face-fwd-highlighter-stick",
+        "name": "Face Fwd >> Highlighter Stick",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-highlighter-stick-01-champagne-champion-champagne-gold-13825401290835.jpg?v=1619116541","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-highlighter-stick-01-champagne-champion-champagne-gold-14376637235283.jpg?v=1619116543","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-highlighter-stick-01-champagne-champion-champagne-gold-14376860254291.jpg?v=1619116546","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-highlighter-stick-01-champagne-champion-champagne-gold-13824751698003.jpg?v=1619116548","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-highlighter-stick-01-champagne-champion-champagne-gold-13824751665235.jpg?v=1619116551","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-highlighter-stick-01-champagne-champion-champagne-gold-13824751730771.jpg?v=1619116553","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-highlighter-stick-01-champagne-champion-champagne-gold-13825401323603.jpg?v=1619116555","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-highlighter-stick-01-champagne-champion-champagne-gold-13825401258067.jpg?v=1619116557"],
+        "price": "799.00",
+        "ratingValue": "4.75",
+        "reviewCount": "16",
+        "category": ["face makeup"]
+        }, 
+        {
+        "id": 48,
+        "route": "/products/matte-as-hell-crayon-lipstick-minis-set-1",
+        "name": "Matte As Hell Crayon Lipstick Minis Set",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-as-hell-crayon-lipstick-minis-set-28270316945491.jpg?v=1623073051","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-as-hell-crayon-lipstick-minis-set-28270316978259.jpg?v=1623073053","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-as-hell-crayon-lipstick-minis-set-28270317109331.jpg?v=1623073054","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-as-hell-crayon-lipstick-minis-set-28270317142099.jpg?v=1623073056","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-as-hell-crayon-lipstick-minis-set-28321893089363.jpg?v=1623073058","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-as-hell-crayon-lipstick-minis-set-28321893122131.jpg?v=1623073060","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-as-hell-crayon-lipstick-minis-set-28321893056595.jpg?v=1623073062","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-as-hell-crayon-lipstick-minis-set-28321893220435.jpg?v=1623073064","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-as-hell-crayon-lipstick-minis-set-28321893187667.jpg?v=1623073066","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-as-hell-crayon-lipstick-minis-set-28321893023827.jpg?v=1623073068","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-as-hell-crayon-lipstick-minis-set-28321893154899.jpg?v=1623073070"],
+        "price": "1099.00",
+        "ratingValue": "4.857142857142857",
+        "reviewCount": "140",
+        "category": ["lip makeup"]
+        }, 
+        {
+        "id": 49,
+        "route": "/products/ace-of-face-foundation-stick",
+        "name": "Ace Of Face Foundation Stick",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/1_970c1c21-0fc9-4a9b-98dc-43cebdc5f554.jpg?v=1640792528","https://cdn.shopify.com/s/files/1/0906/2558/products/2_40b8d0b3-b672-41dd-8a98-e32a36421020.jpg?v=1640869911","https://cdn.shopify.com/s/files/1/0906/2558/products/3_db28afbb-f8ba-430b-9770-07120d38eb5e.jpg?v=1640792532","https://cdn.shopify.com/s/files/1/0906/2558/products/4_20da4341-caed-4598-8c16-d74efbfeeedc.jpg?v=1640792534","https://cdn.shopify.com/s/files/1/0906/2558/products/5_a9b4a6c8-7a3c-484c-b914-63c8fd78fe28.jpg?v=1640792536","https://cdn.shopify.com/s/files/1/0906/2558/products/6_12c1cbc6-258d-47d3-8e5c-a303c4e5bec6.jpg?v=1640792538","https://cdn.shopify.com/s/files/1/0906/2558/products/7_d233cf94-8a8c-4ff2-b684-8d40283d7717.jpg?v=1640792540","https://cdn.shopify.com/s/files/1/0906/2558/products/8_41fc6652-f83c-437c-a02b-752bcd0228dd.jpg?v=1640792542"],
+        "price": "999.00",
+        "ratingValue": "4.815476190476191",
+        "reviewCount": "336",
+        "category": ["face makeup"]
+        }, 
+        {
+        "id": 50,
+        "route": "/products/swipe-right-cleansing-water",
+        "name": "Swipe Right Cleansing Water",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-swipe-right-cleansing-water-12771592732755.jpg?v=1619106450","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-swipe-right-cleansing-water-14285184794707.jpg?v=1619106452","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-swipe-right-cleansing-water-12771592699987.jpg?v=1619106454","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-swipe-right-cleansing-water-12771592765523.jpg?v=1619106456"],
+        "price": "399.00",
+        "ratingValue": "4.794117647058823",
+        "reviewCount": "34",
+        "category": ["face makeup"]
+        }, 
+        {
+        "id": 51,
+        "route": "/products/face-fwd-corrector-stick",
+        "name": "Face Fwd >> Corrector Stick",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-corrector-stick-01-peach-precedent-peach-13825393524819.jpg?v=1619116491","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-corrector-stick-01-peach-precedent-peach-13828604362835.jpg?v=1619116494","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-corrector-stick-01-peach-precedent-peach-13828606558291.jpg?v=1619116496","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-corrector-stick-01-peach-precedent-peach-13828608196691.jpg?v=1619116499","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-corrector-stick-01-peach-precedent-peach-13825393557587.jpg?v=1619116501","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-corrector-stick-01-peach-precedent-peach-13825393492051.jpg?v=1619116504","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-corrector-stick-01-peach-precedent-peach-15781904547923.jpg?v=1619116507"],
+        "price": "799.00",
+        "ratingValue": "4.45945945945946",
+        "reviewCount": "37",
+        "category": ["face makeup"]
+        }, 
+        {
+        "id": 52,
+        "route": "/products/own-the-light-liquid-highlighter",
+        "name": "Own The Light Liquid Highlighter",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/2_47c93a0b-accd-49c6-9215-0084409caf1b.jpg?v=1637336910","https://cdn.shopify.com/s/files/1/0906/2558/products/1_47b1af63-e56b-411f-8558-3411a4682623.jpg?v=1637336912","https://cdn.shopify.com/s/files/1/0906/2558/products/3_fe121b84-d22f-4f4f-ba49-5acb385e4221.jpg?v=1637336915","https://cdn.shopify.com/s/files/1/0906/2558/products/4_294f3436-31ba-474e-b6a0-22edac7cd9c2.jpg?v=1637579198","https://cdn.shopify.com/s/files/1/0906/2558/products/5_366c2709-0a9f-4a85-bf03-1c2a1db7cce6.jpg?v=1637579198","https://cdn.shopify.com/s/files/1/0906/2558/products/6_f23a2923-26a5-4114-9e98-465c83b97cc0.jpg?v=1637336922"],
+        "price": "649.00",
+        "ratingValue": "undefined",
+        "reviewCount": "undefined",
+        "category": ["face makeup"]
+        }, 
+        {
+        "id": 53,
+        "route": "/products/matte-attack-transferproof-lipstick",
+        "name": "Matte Attack Transferproof Lipstick",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-attack-transferproof-lipstick-01-boldplay-cardinal-pink-13678361509971.jpg?v=1637150837","https://cdn.shopify.com/s/files/1/0906/2558/products/Artboard2.jpg?v=1637163476","https://cdn.shopify.com/s/files/1/0906/2558/products/matteattackhowtoapply.jpg?v=1637163478","https://cdn.shopify.com/s/files/1/0906/2558/products/Artboard6.jpg?v=1637163480","https://cdn.shopify.com/s/files/1/0906/2558/products/Artboard4.jpg?v=1637163482","https://cdn.shopify.com/s/files/1/0906/2558/products/Artboard3.jpg?v=1637163484","https://cdn.shopify.com/s/files/1/0906/2558/products/Artboard1.jpg?v=1637163486","https://cdn.shopify.com/s/files/1/0906/2558/products/Artboard7.jpg?v=1637163488","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-matte-attack-transferproof-lipstick-01-boldplay-cardinal-pink-13678361477203.jpg?v=1637150909"],
+        "price": "699.00",
+        "ratingValue": "4.6891891891891895",
+        "reviewCount": "222",
+        "category": ["lip makeup"]
+        }, 
+        {
+        "id": 54,
+        "route": "/products/blend-trend-face-brush-002-concealer",
+        "name": "Blend Trend Face Brush - 002 Concealer",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-002Concealer.jpg?v=1627659990","https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-002Concealer_7f87e4fb-6d9a-4c5d-9d8f-927acefcd4e6.jpg?v=1627659992","https://cdn.shopify.com/s/files/1/0906/2558/products/Blendtrend-powderedbyimage_5ff221d0-9d32-49bc-aa69-4b703245adf3.jpg?v=1627659994"],
+        "price": "399.00",
+        "ratingValue": "5",
+        "reviewCount": "1",
+        "category": ["brush"]
+        }, 
+        {
+        "id": 55,
+        "route": "/products/plush-crush-creme-crayon",
+        "name": "Plush Crush Crème Crayon",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-plush-crush-creme-crayon-01-bourbon-bree-peach-brown-13974446374995_fc7ae24d-9989-4272-bbb0-83e1911447ac.jpg?v=1633418363","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-plush-crush-creme-crayon-01-bourbon-bree-peach-brown-14270756585555_e1297b50-cfe3-449e-835e-134d568fc3c0.jpg?v=1633418364","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-plush-crush-creme-crayon-01-bourbon-bree-peach-brown-13974446407763_14465bed-32f0-4da0-af0c-5bf1edbe3490.jpg?v=1633418364","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-plush-crush-creme-crayon-01-bourbon-bree-peach-brown-13974446440531_c7725544-0bdb-4e9b-8750-b4c957036df7.jpg?v=1633418364","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-plush-crush-creme-crayon-01-bourbon-bree-peach-brown-13974446473299_05dc0999-7ad3-4f95-8794-95caec93e2f4.jpg?v=1633418364","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-plush-crush-creme-crayon-01-bourbon-bree-peach-brown-13974446506067_ebd81b30-5466-4118-9137-2342f59244ab.jpg?v=1633418364"],
+        "price": "349.00",
+        "ratingValue": "4.717391304347826",
+        "reviewCount": "92",
+        "category": ["lip makeup"]
+        }, 
+        {
+        "id": 56,
+        "route": "/products/smudge-me-not-liquid-lipstick-minis-set-pink",
+        "name": "Smudge Me Not Minis Set - Pink",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14629810667603.jpg?v=1620652894","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-28122612400211.gif?v=1620652894","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14629810470995.jpg?v=1620652894","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14629810634835.jpg?v=1620652894","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-28271611412563.jpg?v=1623072151","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-28271611576403.jpg?v=1623072153","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-28271611609171.jpg?v=1623072155","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-28271612002387.jpg?v=1623072157","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971875065939.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971909701715.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971877130323.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971914027091.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971877752915.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14972698230867.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971882209363.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14972699934803.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971882733651.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971884077139.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971884929107.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971886075987.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971886927955.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971887878227.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971889188947.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971890008147.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971891023955.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-28122612432979.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971892334675.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971893547091.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971895054419.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971897151571.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971898003539.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971898822739.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971900100691.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-28122612465747.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971902459987.jpg?v=1620708042","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-pink-14971903279187.jpg?v=1620708042"],
+        "price": "799.00",
+        "ratingValue": "4.702127659574468",
+        "reviewCount": "47",
+        "category": ["lip makeup"]
+        }, 
+        {
+        "id": 57,
+        "route": "/products/smudge-me-not-mini-lipstick-mint-green-set-nude",
+        "name": "Smudge Me Not Mini Lipstick Mint Green Set - Nude",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-nude-28336347545683.jpg?v=1623073335","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-nude-green-minis-set-28333437091923.jpg?v=1623073338","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-nude-28336422944851.jpg?v=1621927935","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-nude-28336422420563.jpg?v=1621927935","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-nude-28336423108691.jpg?v=1621927935","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-nude-28336425205843.jpg?v=1621927935"],
+        "price": "799.00",
+        "ratingValue": "5",
+        "reviewCount": "4",
+        "category": ["lip makeup"]
+        }, 
+        {
+        "id": 58,
+        "route": "/products/smudge-me-not-mini-lipstick-mint-green-set-bold",
+        "name": "Smudge Me Not Mini Lipstick Mint Green Set - Bold",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-bold-28336482943059.jpg?v=1623073325","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-bold-green-minis-set-28333415497811.jpg?v=1623073328","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-bold-28336545038419.jpg?v=1621930451","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-bold-28336545005651.jpg?v=1621930451","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-bold-28336545103955.jpg?v=1621930451","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-mini-lipstick-mint-green-set-bold-28336545267795.jpg?v=1621930451"],
+        "price": "799.00",
+        "ratingValue": "4.5",
+        "reviewCount": "2",
+        "category": ["lip makeup"]
+        }, 
+        {
+        "id": 59,
+        "route": "/products/blend-trend-face-brush-006-highlighter",
+        "name": "Blend Trend Face Brush - 006 Highlighter",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-006Highlighter.jpg?v=1627660002","https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-006Highlighter_06c884df-5f84-4c97-8c40-83f601f4ff70.jpg?v=1627660004","https://cdn.shopify.com/s/files/1/0906/2558/products/Blendtrend-powderedbyimage_948219d6-17f5-4018-aaf0-04a243a01ed3.jpg?v=1627660006"],
+        "price": "399.00",
+        "ratingValue": "5",
+        "reviewCount": "3",
+        "category": ["brush"]
+        }, 
+        {
+        "id": 60,
+        "route": "/products/smudge-me-not-liquid-lipstick-mint-green-minis-set",
+        "name": "Smudge Me Not Minis Set - Mint Green",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-mint-green-minis-set-14792910340179.jpg?v=1620652722","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-28122612203603.gif?v=1620652722","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-mint-green-minis-set-14792910241875.jpg?v=1620652722","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-mint-green-minis-set-14792910307411.jpg?v=1620652722","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-mint-green-minis-set-14792910372947.jpg?v=1620652722","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-28271612461139.jpg?v=1623072237","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-28271612592211.jpg?v=1623072240","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-28271612493907.jpg?v=1623072242","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-28271612559443.jpg?v=1623072245","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851543302227.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851543269459.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851543203923.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851543171155.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851543433299.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851543334995.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851543466067.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851543498835.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851543236691.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851543367763.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851556638803.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851556671571.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851556540499.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851591372883.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851556573267.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851556343891.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851556114515.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851556081747.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851556999251.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851556966483.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851556704339.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851556737107.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851556016211.jpg?v=1620708086","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-minis-set-mint-green-14851556769875.jpg?v=1640178989"],
+        "price": "799.00",
+        "ratingValue": "4.82051282051282",
+        "reviewCount": "39",
+        "category": ["lip makeup"]
+        }, 
+        {
+        "id": 61,
+        "route": "/products/set-the-tone-tinted-powder",
+        "name": "Set The Tone Tinted Powder",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-set-the-tone-tinted-powder-10-latte-light-13444693688403.jpg?v=1619115218","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-set-the-tone-tinted-powder-10-latte-light-14285213630547.jpg?v=1619115220","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-set-the-tone-tinted-powder-10-latte-light-13437913301075.jpg?v=1619115222","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-set-the-tone-tinted-powder-10-latte-light-13437913366611.jpg?v=1619115224"],
+        "price": "699.00",
+        "ratingValue": "4.770833333333333",
+        "reviewCount": "48",
+        "category": ["face makeup"]
+        }, 
+        {
+        "id": 62,
+        "route": "/products/power-clay-spf20-bb-cushion-refill",
+        "name": "Power Clay SPF20 BB Cushion (Refill)",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-power-clay-spf20-bb-cushion-refill-05-blonde-latte-light-shade-with-neutral-undertone-14113789575251.jpg?v=1619117217","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-power-clay-spf20-bb-cushion-refill-05-blonde-latte-light-shade-with-neutral-undertone-14376675835987.jpg?v=1619117220","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-power-clay-spf20-bb-cushion-refill-05-blonde-latte-light-shade-with-neutral-undertone-14125318570067.jpg?v=1619117222","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-power-clay-spf20-bb-cushion-refill-05-blonde-latte-light-shade-with-neutral-undertone-28128208978003.jpg?v=1619117224","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-power-clay-spf20-bb-cushion-refill-05-blonde-latte-light-shade-with-neutral-undertone-14113789509715.jpg?v=1619117227"],
+        "price": "699.00",
+        "ratingValue": "4.375",
+        "reviewCount": "8",
+        "category": ["face makeup"]
+        }, 
+        {
+        "id": 63,
+        "route": "/products/blend-trend-face-brush-007-powder",
+        "name": "Blend Trend Face Brush - 007 Powder",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-007Powder.jpg?v=1627660008","https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-007Powder_120a2dc8-e1be-4aaa-ae98-fbfb428f6d30.jpg?v=1627660010","https://cdn.shopify.com/s/files/1/0906/2558/products/Blendtrend-powderedbyimage_ad3b598b-0686-4259-80fe-e5494461c07f.jpg?v=1627660012"],
+        "price": "399.00",
+        "ratingValue": "5",
+        "reviewCount": "5",
+        "category": ["brush"]
+        }, 
+        {
+        "id": 64,
+        "route": "/products/limited-edition-nothing-else-matter-longwear-lipstick",
+        "name": "Limited Edition Nothing Else Matter Longwear Lipstick",
+        "image": ["https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-limited-edition-nothing-else-matter-longwear-lipstick-23-peachy-keen-light-peach-pastel-peach-13132903383123.jpg?v=1637218631","https://cdn.shopify.com/s/files/1/0906/2558/products/1_74af8057-3a37-4a8c-9a10-819b9fc0c0d8.jpg?v=1637250243","https://cdn.shopify.com/s/files/1/0906/2558/products/2_2d3586fc-2bd3-4412-876c-e0ce64097b2c.jpg?v=1637250246","https://cdn.shopify.com/s/files/1/0906/2558/products/3_5af59815-45c6-4b28-a2bf-9a8fd982e672.jpg?v=1637250248","https://cdn.shopify.com/s/files/1/0906/2558/products/4_f27b9e1e-af44-430b-98cd-5aa6aa181235.jpg?v=1637250250","https://cdn.shopify.com/s/files/1/0906/2558/products/5_b5dcd634-199e-482c-9bb0-49d746a9f799.jpg?v=1637250253","https://cdn.shopify.com/s/files/1/0906/2558/products/6_4f43c0c8-9e8b-40a2-b2f3-4d2cf0c9923a.jpg?v=1637250255","https://cdn.shopify.com/s/files/1/0906/2558/products/7_8c649d08-6d01-45ce-a1bf-ad4dab36ad5a.jpg?v=1637250257","https://cdn.shopify.com/s/files/1/0906/2558/products/8_4c43f98a-6efa-4bfd-9685-86dbc6a432b4.jpg?v=1637250260","https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-limited-edition-nothing-else-matter-longwear-lipstick-23-peachy-keen-light-peach-pastel-peach-13132903415891.jpg?v=1637218634"],
+        "price": "599.00",
+        "ratingValue": "4.933333333333334",
+        "reviewCount": "15",
+        "category": ["lip makeup"]
+        }
+  ],
+  "orders": [
+
+  ],
+  "users":[
+    
+  ]
+}
